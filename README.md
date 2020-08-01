@@ -28,3 +28,6 @@ Two types of users, landlords that are able to post lease offerings on the site,
 | `npm run test`         | Runs entire test suite                       |
 | `npm run test:cypress` | Runs Cypress integration tests               |
 | `npm run test:jest`    | Runs Jest unit tests                         |
+
+##Business Documents Folder: 
+https://drive.google.com/drive/folders/1kOWhSVo88VKZDzH6qq1kdejrwQg44DVM?usp=sharing
